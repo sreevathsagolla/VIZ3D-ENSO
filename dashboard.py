@@ -2,8 +2,6 @@ import dash
 from dash import dcc, html, Input, Output
 import os
 from itertools import product
-import webbrowser
-from threading import Timer
 
 EVENTS = ['EL_NINO', 'LA_NINA']
 TIME_PERIODS = ['1976-2023', '1950-2023', '1950-2050']
