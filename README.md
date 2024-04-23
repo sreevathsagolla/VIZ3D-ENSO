@@ -16,3 +16,5 @@ Open the link on the browser of your choice.
 3. Composite: Observations + NPD Runs  + CMIP6 HighResMIP Runs
 
 For the sake of dashboard responsiveness, composites have been **interpolated to 1˚x1˚ horizontal resolution and evenly spaced 10m depth levels**.
+
+P.S.: Ignore scratch.ipynb, it's for testing new stuff.
