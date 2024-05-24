@@ -10,7 +10,7 @@ HIGHRESMIP_MODELS = ['CMCC-CM2-VHR4', 'CNRM-CM6-1-HR', 'EC-Earth3P-HR', 'HadGEM3
 HIGHRESMIP_EXPTYPE = ['control', 'historical']
 HIGHRESMIP_EXPS = [x[0]+'_'+x[1]+'_run' for x in product(HIGHRESMIP_MODELS, HIGHRESMIP_EXPTYPE)]
 
-NPD_EXPS = ['eORCA025_ERA5', 'eORCA025_JRA55']
+NPD_EXPS = ['NPD_eORCA025_ERA5', 'NPD_eORCA025_JRA55']
 OBS = ['EN4', 'ORAS5']
 
 app = dash.Dash(__name__) 
