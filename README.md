@@ -49,3 +49,6 @@ For dashboard responsiveness, composites are interpolated to 1˚x1˚ horizontal 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+Feel free to reach out at sg13n23@soton.ac.uk if you have any questions or need further assistance!
