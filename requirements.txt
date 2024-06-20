@@ -1,8 +1,8 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: osx-arm64
-gunicorn=22.0.0=py311h267d04e_0
-numpy=1.26.4=py311h7125741_0
-tqdm=4.66.2=pyhd8ed1ab_0
-dash=2.16.1=pyhd8ed1ab_0
-xarray=2024.2.0=pyhd8ed1ab_0
+gunicorn
+numpy
+tqdm
+dash
+xarray
