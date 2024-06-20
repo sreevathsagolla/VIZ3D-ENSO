@@ -30,7 +30,7 @@ pip install numpy tqdm xarray dash
 
 To run the dashboard, execute:
 ```bash
-python3 dashboard.py
+python3 app.py
 ```
 Then open the provided link in your browser.
 
