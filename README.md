@@ -4,6 +4,8 @@
 
 VIZ3D-ENSO is a 3-D visualization dashboard for ENSO (El Niño-Southern Oscillation) composites from coupled and ocean-only model simulations. This dashboard allows users to explore ENSO event types, time periods, and composite data interactively.
 
+**<u>DEPLOYED AS A WEBSITE DASHBOARD</u>: https://viz3d-enso.onrender.com [ISSUES WITH DEPLOYMENT; PLEASE CHECK LATER IF THE PAGE IS UNRESPONSIVE]**
+
 ## Model & observation-based data used
 
 Models considered are as follows:
